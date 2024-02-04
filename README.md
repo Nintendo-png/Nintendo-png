@@ -1,4 +1,6 @@
 ## 👋 Introduction
 ![status](https://img.shields.io/badge/status-up-brightgreen) 
 
-My name is Succulent64 (No real name for you), and I make websites with PHP n stuff.
+What's up! My name is NitroDevKit and I like messing around with technology. 
+
+Pretty much all you need to know.
