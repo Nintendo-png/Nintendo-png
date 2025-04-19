@@ -1,6 +1,4 @@
-## 👋 Introduction
-![status](https://img.shields.io/badge/status-up-brightgreen) 
 
-What's up! My name is casta and I like messing around with technology.
-
-Pretty much all you need to know.
+Professional idiot who makes pointless shit from time to time. Writes things in Python, PHP, and Javascript, likes protogens and procrastination, specializes in writing code designed for niche projects (Ex: flipnote), hates employment.
+> "If there's a better use for the internet, I haven't found it"
+- Homer Simpson
